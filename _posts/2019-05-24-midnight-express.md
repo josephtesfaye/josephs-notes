@@ -30,7 +30,7 @@ The movie passes a sense of magical reality with the downhill scene switching fr
 airport to the ghettos, then to the prison, and finally to the psychiatric house. Nothing
 felt realistic yet everything had happened for real. Both the acting and the shooting were
 blatant and bold to bring up that realistic and absurd feeling, like the brutal fighting
-between the protagonist Willliam Hayes and his fellow indiscreet prisoner Rifki, whose
+between the protagonist William Hayes and his fellow indiscreet prisoner Rifki, whose
 tongue was cultishly biten off. Besides, you got to see a showcase of environmental 
 homesexuality, the raw sexual desire and psychiatric decomposition from the prolonged
 detention.
