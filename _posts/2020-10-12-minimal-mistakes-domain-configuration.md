@@ -2,7 +2,7 @@
 title: "How to set up custom domain for Github Pages using minimal-mistakes"
 last_modified_at: 2020-10-14
 categories:
-  - CMS
+  - Web
 tags:
   - Jekyll
   - Minimal Mistakes

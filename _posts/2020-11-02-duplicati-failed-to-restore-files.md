@@ -3,11 +3,12 @@ title: "Duplicati: Failed to Restore files"
 excerpt: "Reasons and solutions of failing to restore files with Duplicati"
 last_modified_at: 2020-11-02
 categories:
-  - File management
+  - Productivity
 tags:
   - Duplicati
   - Backup
   - Sync
+  - Files
 ---
 
 Working on Windows 10 and after using the web interface to create and run a backup job called "test-backup" with destination pointing to a USB-connected external hard drive successfully, the restoring process is acting strange.

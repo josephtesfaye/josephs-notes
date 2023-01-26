@@ -4,7 +4,6 @@ last_modified_at: 2020-03-22
 categories:
   - Git
 tags:
-  - Productivity
   - VCS
 toc: true
 classes: narrow
