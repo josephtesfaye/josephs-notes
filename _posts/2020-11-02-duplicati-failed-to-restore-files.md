@@ -19,7 +19,7 @@ Working on Windows 10 and after using the web interface to create and run a back
     2020-11-02 17:00:13 +08 - [Error-Duplicati.Library.Main.Operation.RestoreHandler-PatchingFailed]: Failed to patch with remote file: "duplicati-b5b00656e1c2e4399905807e3f1c00507.dblock.zip.aes", message: Failed to decrypt data (invalid passphrase?): Invalid password or corrupted data
     ```
 
-	See [complete log](/_demo/duplicati-failed-to-download-files.json){:target="_blank"}.
+	See [complete log]({{site.baseurl}}/_demo/duplicati-failed-to-download-files.json){:target="_blank"}.
 
 2. If just one file is selected to restore and the source folder is moved or renamed, the file can't be restored and errors such as below  are reported:
 
@@ -27,7 +27,7 @@ Working on Windows 10 and after using the web interface to create and run a back
     2020-11-02 16:41:54 +08 - [Error-Duplicati.Library.Main.Operation.RestoreHandler-PatchingFailed]: Failed to patch with remote file: "duplicati-b0c61469407564d3588544e9f1e13423a.dblock.zip.aes", message: Failed to decrypt data (invalid passphrase?): Invalid password or corrupted data
     2020-11-02 16:41:54 +08 - [Error-Duplicati.Library.Main.Operation.RestoreHandler-RestoreFileFailed]: Could not find a part of the path 'D:\test-backup\【5】剑桥雅思真题5.pdf'.
     ```
-	See [complete log](/_demo/duplicati-failed-to-download-files-after-renaming.json){:target="_blank"}.
+	See [complete log]({{site.baseurl}}/_demo/duplicati-failed-to-download-files-after-renaming.json){:target="_blank"}.
 
 It seems to me that Duplicati is just trying to restore the files from the source folder instead of the backup folder. What's the reason that it can't download a file from a USB-connected hard drive? I've cross-checked the passphrase to make sure it's correct, but even if it's restored from the existing job where no passphrase input is involved, the errors would still show up.
 

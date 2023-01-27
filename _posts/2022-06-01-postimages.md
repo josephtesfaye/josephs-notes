@@ -8,7 +8,7 @@ tags:
   - Image
 ---
 
-In this [demo](/_demo/postimages.org_image_test.html):
+In this [demo]({{site.baseurl}}/_demo/postimages.org_image_test.html):
 
 ``` html
 <!DOCTYPE html>

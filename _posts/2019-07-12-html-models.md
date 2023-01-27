@@ -24,7 +24,7 @@ Make a panel inside the `<body>` container without offsets or margins.
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-See also: [Demo](/_demo/zero-offset-panel.html){:target="_blank"}
+See also: [Demo]({{site.baseurl}}/_demo/zero-offset-panel.html){:target="_blank"}
 
 ### Auto-expanding parent
 
@@ -39,7 +39,7 @@ To expand vertically: The key is to use `min-height: <foo>` and and `height: aut
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-See also: [Demo](/_demo/auto-expand-parent-vertical.html){:target="_blank"}
+See also: [Demo]({{site.baseurl}}/_demo/auto-expand-parent-vertical.html){:target="_blank"}
 
 To expand horizontally: You can use `display: inline-block` for this purpose, but all the parent blocks will be aligned horizontally. To make them on separate lines use `float: left; clear: left;` instead.
 
@@ -50,7 +50,7 @@ To expand horizontally: You can use `display: inline-block` for this purpose, bu
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-See also: [Demo](/_demo/auto-expand-parent-horizontal.html){:target="_blank"}
+See also: [Demo]({{site.baseurl}}/_demo/auto-expand-parent-horizontal.html){:target="_blank"}
 
 ### Fixed scrollable panel
 
@@ -63,7 +63,7 @@ Make a panel which is fixed in position and scrollable when its content overflow
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-See also: [Demo](/_demo/fixed-scrollable-panel.html){:target="_blank"}
+See also: [Demo]({{site.baseurl}}/_demo/fixed-scrollable-panel.html){:target="_blank"}
 
 ### Slide-in overlay
 
@@ -76,7 +76,7 @@ Make a panel overlaying another panel slide in/out by hovering on/off the other 
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-See also: [Demo](/_demo/slide-in-overlay-on-hovering-4-drections.html){:target="_blank"}
+See also: [Demo]({{site.baseurl}}/_demo/slide-in-overlay-on-hovering-4-drections.html){:target="_blank"}
 
 ### Slide-in overlay to carry
 
@@ -89,7 +89,7 @@ Make a panel overlaying another panel and carrying a child slide in/out by hover
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-See also: [Demo](/_demo/slide-in-overylay-on-hovering-carry-child.html){:target="_blank"}
+See also: [Demo]({{site.baseurl}}/_demo/slide-in-overylay-on-hovering-carry-child.html){:target="_blank"}
 
 ### Slide-out overlay to unveil
 
@@ -102,4 +102,4 @@ Make a panel overlaying another panel slide out by hovering on the panel and rev
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-See also: [Demo](/_demo/slide-out-overlay-on-hovering-4-drections.html){:target="_blank"}
+See also: [Demo]({{site.baseurl}}/_demo/slide-out-overlay-on-hovering-4-drections.html){:target="_blank"}

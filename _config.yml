@@ -9,8 +9,8 @@ title_separator: "|"
 # subtitle:
 name: Joseph Tesfaye
 description: "Joseph Tesfaye's personal blog/notebook dealing with topics majorly focusing on programming, math, music etc."
-# url: https://josephtesfaye.com/blog
-# baseurl: /
+# url: https://josephtesfaye.com
+baseurl: /josephs-blog
 # repository: josephtesfaye/blog
 # teaser:
 # logo:
